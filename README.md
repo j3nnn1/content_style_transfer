@@ -1,10 +1,10 @@
 # content_style_transfer
 
-# Las respuestas de las preguntas desde la 1 a la 7 se encuentran en la notebook en forma de comentarios
+# Las respuestas de las preguntas desde la 1 a la 6 se encuentran en la notebook en forma de comentarios
 
     https://github.com/j3nnn1/content_style_transfer/blob/main/cnn_style_transfer.ipynb
 
-# primera ejecucion
+# primera ejecucion pregunta 7
 ### Parametros usados.
     total_variation_weight = 0.1
     style_weight = 10
