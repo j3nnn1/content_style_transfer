@@ -11,8 +11,9 @@
 #### Estilo de referencia.
 <img src="https://github.com/j3nnn1/content_style_transfer/raw/main/La_noche_estrellada1.jpg" width="200" height="200"/>
 
-#### Nueva imagen generada con estilo de referencia iteracion 0.
+#### Nueva imagen generada con estilo de referencia iteracion 0 y 100.
 <img src="https://github.com/j3nnn1/content_style_transfer/raw/main/content/01_primeraEjecucion.toGithub/output_at_iteration_0.png" width="200" height="200"/>
+<img src="https://github.com/j3nnn1/content_style_transfer/raw/main/content/01_primeraEjecucion.toGithub/output_at_iteration_99.png" width="200" height="200"/>
 
 # Ejecuciones pregunta 8
 ### Imágenes para distintas combinaciones de pesos de las losses - 1era ejecucion
